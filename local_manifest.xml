@@ -3,7 +3,7 @@
 <remote name="org" fetch="https://github.com/rom-vayu/" />
 <remote name="momen" fetch="https://github.com/momenabdulrazek/" />
 <remote name="hard" fetch="https://github.com/LineageOS/" />
-  <project path="device/xiaomi/vayu" remote="org" name="device_xiaomi_vayu" revision="cr14" />
+  <project path="device/xiaomi/vayu" remote="org" name="device_xiaomi_vayu" revision="mat14" />
   <project path="device/xiaomi/sm8150-common" remote="org" name="device_xiaomi_sm8150-common" revision="cr14" />
   <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="cr14" />
   <project path="vendor/xiaomi/sm8150-common" remote="org" name="vendor_xiaomi_sm8150-common" revision="cr14" />
