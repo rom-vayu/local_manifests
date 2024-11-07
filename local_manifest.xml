@@ -9,5 +9,4 @@
   <project path="vendor/xiaomi/sm8150-common" remote="org" name="vendor_xiaomi_sm8150-common" revision="cr14" />
   <project path="kernel/xiaomi/sm8150" remote="org" name="kernel_xiaomi_sm8150" revision="cr14" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
-  <project path="hardware/xiaomi" remote="hard" name="android_hardware_xiaomi" revision="lineage-21" />
 </manifest>
