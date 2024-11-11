@@ -5,8 +5,8 @@
 <remote name="hard" fetch="https://github.com/LineageOS/" />
   <project path="device/xiaomi/vayu" remote="org" name="device_xiaomi_vayu" revision="pix" />
   <project path="device/xiaomi/sm8150-common" remote="org" name="device_xiaomi_sm8150-common" revision="pix" />
-  <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="cr14" />
-  <project path="vendor/xiaomi/sm8150-common" remote="org" name="vendor_xiaomi_sm8150-common" revision="cr14" />
+  <project path="vendor/xiaomi/vayu" remote="org" name="vendor_xiaomi_vayu" revision="cr15" />
+  <project path="vendor/xiaomi/sm8150-common" remote="org" name="vendor_xiaomi_sm8150-common" revision="cr15" />
   <project path="kernel/xiaomi/sm8150" remote="org" name="kernel_xiaomi_sm8150" revision="cr14" />
   <project path="vendor/lineage-priv/keys" remote="momen" name="my_sign_test_keys" revision="QPR3" />
 </manifest>
